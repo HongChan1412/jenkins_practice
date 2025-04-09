@@ -1,9 +1,8 @@
 spring:
   application:
-    name: step07_CICD
+    name: step07_cicd
 server:
   port: 8080
-
 management:
   endpoints:
     web:
@@ -12,5 +11,4 @@ management:
   prometheus:
     metrics:
       export:
-        enabled: true
-
+        enabled: true	

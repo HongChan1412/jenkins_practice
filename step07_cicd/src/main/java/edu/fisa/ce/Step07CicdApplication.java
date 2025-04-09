@@ -1,4 +1,4 @@
-package edu.fis.ce;
+package edu.fisa.ce;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
